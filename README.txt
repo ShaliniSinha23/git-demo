@@ -2,13 +2,6 @@
 
 This is the first file in Repo.
 
-## Adding IPSUM
+## Adding Web Content.
 
-Adding some more line addition to the first one
-
-Adding one more new line.
-
-
-###Adding third line 
-
-Adding few additional line in third line.
+1. Index.html
